@@ -2,7 +2,7 @@
 
 This practice iOS application uses the OpenCV framework to roughly detect circles, rectangles, and faces. This application also has the additional capability of converting a taken image to grayscale format.
 
-NOTE: DO NOT OPEN haarcascade_frontalface_default.xml file, it is very large.
+NOTE: The haarcascade_frontalface_default.xml file is very large.
 
 Required frameworks:
 http://docs.opencv.org/2.4/doc/tutorials/introduction/ios_install/ios_install.html
